@@ -1,0 +1,26 @@
+{
+  "name": "foolish-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perfectworks/foolish-dev.git"
+  },
+  "author": "perfectworks <perfectworks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perfectworks/foolish-dev/issues"
+  },
+  "homepage": "https://github.com/perfectworks/foolish-dev#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-order": "^1.1.1",
+    "through2": "^2.0.1",
+    "yargs": "^5.0.0"
+  }
+}
